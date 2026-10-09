@@ -1,5 +1,26 @@
 [
   {
+    "id": "1",
+    "title": "Na Yarda Na Mutu",
+    "album": "Kalamai Album",
+    "duration": "3:15",
+    "streamUrl": "https://hausamini.com.ng/wp-content/uploads/2020/07/Umar-M-Shareef-Na-Yarda-In-Mutu-HausaMini.Com_.mp3"
+  },
+  {
+    "id": "2",
+    "title": "Wata Ruga",
+    "album": "Soyayya Da Shakuwa",
+    "duration": "3:36",
+    "streamUrl": "https://hausamini.com.ng/wp-content/uploads/2021/04/Umar_M_Shareef_Cikin_Mafarki_HausaMini.Com_.mp3"
+  },
+  {
+    "id": "3",
+    "title": "Zainabu Abu",
+    "album": "Garin Masoya",
+    "duration": "4:02",
+    "streamUrl": "https://hausamini.com.ng/wp-content/uploads/2020/09/Umar_M_Shareef_Zainabu_Abu_HausaMini.Com_.mp3"
+  },
+  {
     "id": "4",
     "title": "Cikin Mafarki",
     "album": "Kalamai Album",
